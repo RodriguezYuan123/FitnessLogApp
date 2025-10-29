@@ -1,0 +1,54 @@
+﻿@model FitnessLog.Presentation.Models.LogWorkoutViewModel // <-- Change model type
+@{
+    ViewData["Title"] = "Log Workout";
+}
+
+<h1>@ViewData["Title"]</h1>
+<h4>Enter your workout details below:</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LogWorkout">
+
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                 @* asp-for tags now point to ViewModel properties *@
+                <label asp-for="ExerciseName" class="control-label"></label>
+                <input asp-for="ExerciseName" class="form-control" />
+                <span asp-validation-for="ExerciseName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Reps" class="control-label"></label>
+                <input asp-for="Reps" class="form-control" type="number" />
+                <span asp-validation-for="Reps" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group mb-3">
+                <label asp-for="DurationInMinutes" class="control-label"></label>
+                <input asp-for="DurationInMinutes" class="form-control" type="number" step="0.1" />
+                <span asp-validation-for="DurationInMinutes" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Date" class="control-label"></label>
+                 @* Use the value from the model passed by the controller GET action *@
+                <input asp-for="Date" class="form-control" type="date" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Log Workout" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

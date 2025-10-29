@@ -1,0 +1,13 @@
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\bin\Debug\net9.0\FitnessLog.Domain.deps.json
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\bin\Debug\net9.0\FitnessLog.Domain.dll
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\bin\Debug\net9.0\FitnessLog.Domain.pdb
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.csproj.AssemblyReference.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.AssemblyInfoInputs.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.AssemblyInfo.cs
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.sourcelink.json
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.dll
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\refint\FitnessLog.Domain.dll
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\FitnessLog.Domain.pdb
+C:\Users\Jasper\source\repos\FitnessLogApp\FitnessLog.Domain\obj\Debug\net9.0\ref\FitnessLog.Domain.dll

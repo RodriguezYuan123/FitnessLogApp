@@ -1,0 +1,9 @@
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.AssemblyInfoInputs.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.AssemblyInfo.cs
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.RazorAssemblyInfo.cache
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.RazorAssemblyInfo.cs
+C:\Users\Jasper\source\repos\FitnessLogApp\obj\Debug\net9.0\FitnessLogApp.sourcelink.json
